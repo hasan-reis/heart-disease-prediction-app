@@ -96,11 +96,3 @@ The application allows users to interact with the trained model in two modes:
 ### 🔸 Real-Time Mode
 - Instant prediction as input values change
 - Useful for observing how individual features affect the outcome
-
----
-
-## 🚀 How to Run
-
-### 1️⃣ Install dependencies
-```bash
-pip install -r requirements.txt
